@@ -1,7 +1,7 @@
 # Crossroads
 ## CSCI S-71 Agile Software Development Group Project
 ## Team: **A-Team**
-## Project Description: 
+## Project Description
 A web application for the future/potential/returning summer students at Harvard with useful information, tips, suggestions from the past/current Harvard Summer School students.
 
 
@@ -42,7 +42,7 @@ Future Harvard summer students be able to receive advice and guidance from curre
     * Parents 
     * Local businesses
 
-9. **A real stake holder:** 
+9. **A real stakeholder:** 
 Linh Nam
 
 10. **Detailed user persona:** 
