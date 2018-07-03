@@ -5,7 +5,7 @@
 A web application for the future/potential/returning summer students at Harvard with useful information, tips, suggestions from the past/current Harvard Summer School students.
 
 
-## Project Part1
+## Project Part 1
 1. **Our "Scrum Teams" group name in Canvas:** 
 a-team
 
@@ -46,7 +46,7 @@ Linh Nam
 
 10. **Detailed user persona:** 
 https://app.xtensio.com/edit/clceg25k
-<br /><br />    **Screenshot of ver 1.0 below**
+<br /><br />    **Screenshot of version 1.0 below**
 <br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
 11. **Initial Product Backlog URL:** 
@@ -71,7 +71,7 @@ Our product backlog is ordered; and it's based primarily on "Depedency", and the
     * Meets the INVEST (Independent, Negotiable, Valuable, Estimable, Small & Testable) criteria
 	
 16. **Estimates:**
-We have stored estimates on our PBIs in our online tool Trello. The estimate is marked in brackets after the title: 
+We have stored estimates on our PBIs in the online tool Trello. The estimate is marked in brackets after the title: 
 https://trello.com/b/RdosOtmY/a-team-kanban-board
 
 17. **Estimation Unit:**
@@ -80,7 +80,7 @@ Our estimatation of PBIs is done in story points.
 18. **We did a whole team relative size estimating activity:** 
 We used the estimation activity Planning Poker to estimate as a team. Only the Development Team members participated in creating the estimates. 
 
-20. **Definition of Done:**
+20. **Our Definition of Done:**
     * Meets all acceptance criteria
     * Design reviewed
     * Individual components are successfully tested and all bugs are fixed
