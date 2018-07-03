@@ -16,9 +16,8 @@ A-Team.
 
 3. **Public git repository for our team:** 
 <br />    **Repo Name:** "crossroads"
-<br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
-<br />    **Team Name:** A-Team
-4. <br />    **Team Roster:**
+<br />    **Repo URL:** https://github.com/cscis71ateam/crossroads
+4. **Team Roster:**
     
     | Name                  |  Role                                        |
     | :---------------------|  :-------------------------------------------|
@@ -47,7 +46,7 @@ Linh Nam
 
 10. **Detailed user persona:** 
 https://app.xtensio.com/edit/clceg25k
-<br />    **Ver 1.0**
+<br  />    **Screenshot of ver 1.0 below**
 <br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
 11. **Initial Product Backlog URL:** 
