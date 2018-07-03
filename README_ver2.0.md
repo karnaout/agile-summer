@@ -1,6 +1,6 @@
 # Crossroads
-## CSCI S-71 Agile Software Development Group Project
-## Team: **A-Team**
+### CSCI S-71 Agile Software Development Group Project
+### Team: **A-Team**
 ## Project Description
 A web application for the future/potential/returning summer students at Harvard with useful information, tips, suggestions from the past/current Harvard Summer School students.
 
