@@ -46,7 +46,7 @@ Linh Nam
 
 10. **Detailed user persona:** 
 https://app.xtensio.com/edit/clceg25k
-<br  />    **Screenshot of ver 1.0 below**
+<br /><br />    **Screenshot of ver 1.0 below**
 <br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
 11. **Initial Product Backlog URL:** 
