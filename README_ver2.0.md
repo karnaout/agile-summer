@@ -59,7 +59,7 @@ Please, see #11 above for URL.
 Please, see #11 above for URL.
 
 14. **Backlog ordering:**
-Our product backlog is ordered; and it's based primarily on "Depedency", and then secondly on "Business Values" - where there is no dependency or they are at the same level in terms of "Dependency". 
+Our product backlog is ordered; and it's based primarily on "Depedency", and then secondly on "Business Value" - where there is no dependency or they are at the same level in terms of "Dependency". 
 
 15. **Our Definition of Ready:** 
     * User story has a title 
