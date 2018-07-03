@@ -12,16 +12,13 @@ a-team
 2. **Our team name:** 
 A-Team. 
 
-    **Our Slack channel in the course Slack team:** 
-a-team
+    **Our Slack channel in the course Slack team:** a-team
 
 3. **Public git repository for our team:** 
-**Repo Name:** "crossroads" <br />
-**Repo URL:** https://github.com/cscis71ateam/crossroads 
-
-4.  
-    * **Team Name:** A-Team
-    * **Team Roster:**
+<br />    **Repo Name:** "crossroads"
+<br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
+<br />    **Team Name:** A-Team
+<br />    **Team Roster:**
     
         | Name                  |  Role                                        |
         | :---------------------|  :-------------------------------------------|
@@ -50,6 +47,7 @@ Linh Nam
 
 10. **Detailed user persona:** 
 https://app.xtensio.com/edit/clceg25k
+<br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
 11. **Initial product backlog URL:** 
 https://trello.com/b/RdosOtmY/a-team-kanban-board
@@ -61,7 +59,7 @@ Please, see #11 above for URL.
 Please, see #11 above for URL.
 
 14. **Backlog ordering:**
-Our product backlog is ordered; and it's based primarily on "Depedency", and then on "Business Values" (where there is no dependency or they are at the same level in terms of "Dependency"). 
+Our product backlog is ordered; and it's based primarily on "Depedency", and then secondly on "Business Values" - where there is no dependency or they are at the same level in terms of "Dependency". 
 
 15. **Our Definition of Ready:** 
     * User story has a title 
@@ -80,9 +78,7 @@ https://trello.com/b/RdosOtmY/a-team-kanban-board
 Our estimatation of PBIs is done in story points.
 
 18. **We did a whole team relative size estimating activity:** 
-We used the estimation activity Planning Poker to estimate as a team.
-
-19. **Only our Development Team members participated in creating the estimates:** 
+We used the estimation activity Planning Poker to estimate as a team. Only the Development Team members participated in creating the estimates. 
 
 20. **Definition of Done:**
     * Meets all acceptance criteria
