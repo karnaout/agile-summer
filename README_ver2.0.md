@@ -18,14 +18,14 @@ A-Team.
 <br />    **Repo Name:** "crossroads"
 <br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
 <br />    **Team Name:** A-Team
-    * **Team Roster:**
+<br />    **Team Roster:**
     
-        | Name                  |  Role                                        |
-        | :---------------------|  :-------------------------------------------|
-        | Simon Soerensen       |  Scrum Master and Development Team Member    |
-        | Chun Chao Tseng       |  Product Owner and Development Team Member   |
-        | Anna Levin            |  Development Team Member                     |
-        | MD Mohiuddin Faruqe   |  Development Team Member                     |
+            | Name                  |  Role                                        |
+            | :---------------------|  :-------------------------------------------|
+            | Simon Soerensen       |  Scrum Master and Development Team Member    |
+            | Chun Chao Tseng       |  Product Owner and Development Team Member   |
+            | Anna Levin            |  Development Team Member                     |
+            | MD Mohiuddin Faruqe   |  Development Team Member                     |
 
 5. **Open source product:** 
 Crossroads
