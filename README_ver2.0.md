@@ -18,7 +18,7 @@ A-Team.
 <br />    **Repo Name:** "crossroads"
 <br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
 <br />    **Team Name:** A-Team
-<br />    **Team Roster:**
+4. **Team Roster:**
     
         | Name                  |  Role                                        |
         | :---------------------|  :-------------------------------------------|
@@ -37,16 +37,17 @@ Each university on earth has their own version of Crossroads with augmented/virt
 Future Harvard summer students be able to receive advice and guidance from current and past students via an online platform.
 
 8. **Three stakeholder types:** 
-* Past/current students 
-* Future students 
-* Parents 
-* Local businesses
+    * Past/current students 
+    * Future students 
+    * Parents 
+    * Local businesses
 
 9. **A real stake holder:** 
 Linh Nam
 
 10. **Detailed user persona:** 
 https://app.xtensio.com/edit/clceg25k
+<br />    **Ver 1.0**
 <br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
 11. **Initial product backlog URL:** 
