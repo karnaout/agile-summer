@@ -5,7 +5,7 @@
 A web application for the future/potential/returning summer students at Harvard with useful information, tips, suggestions from the past/current Harvard Summer School students.
 
 
-## Project Part1:
+## Project Part1
 1. **Our "Scrum Teams" group name in Canvas:** 
 a-team
 
@@ -18,7 +18,7 @@ A-Team.
 <br />    **Repo Name:** "crossroads"
 <br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
 <br />    **Team Name:** A-Team
-<br />    **Team Roster:**
+4. <br />    **Team Roster:**
     
     | Name                  |  Role                                        |
     | :---------------------|  :-------------------------------------------|
@@ -50,7 +50,7 @@ https://app.xtensio.com/edit/clceg25k
 <br />    **Ver 1.0**
 <br />    ![alt text](https://github.com/cscis71ateam/crossroads/blob/master/User%20Persona.png)
 
-11. **Initial product backlog URL:** 
+11. **Initial Product Backlog URL:** 
 https://trello.com/b/RdosOtmY/a-team-kanban-board
  
 12. **We have 10 or more product backlog items in our product backlog:** 
