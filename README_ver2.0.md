@@ -18,7 +18,7 @@ A-Team.
 <br />    **Repo Name:** "crossroads"
 <br />    **Repo URL:** https://github.com/cscis71ateam/crossroads 
 <br />    **Team Name:** A-Team
-4. **Team Roster:**
+    * **Team Roster:**
     
         | Name                  |  Role                                        |
         | :---------------------|  :-------------------------------------------|
