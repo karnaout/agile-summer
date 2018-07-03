@@ -6,17 +6,17 @@ A web application for the future/potential/returning summer students at Harvard 
 
 
 ## Project Part1:
-1. Our "Scrum Teams" group name in Canvas:  
+1. **Our "Scrum Teams" group name in Canvas:** 
 a-team
 
 2. **Our team name:** 
 A-Team. 
 
-**Our Slack channel in the course Slack team:** 
+    **Our Slack channel in the course Slack team:** 
 a-team
 
 3. **Public git repository for our team:** 
-**Repo Name:** "crossroads" 
+**Repo Name:** "crossroads" <br />
 **Repo URL:** https://github.com/cscis71ateam/crossroads 
 
 4.  
@@ -54,10 +54,10 @@ https://app.xtensio.com/edit/clceg25k
 11. **Initial product backlog URL:** 
 https://trello.com/b/RdosOtmY/a-team-kanban-board
  
-12. **We have 10 or more product backlog items in our product backlog** 
+12. **We have 10 or more product backlog items in our product backlog:** 
 Please, see #11 above for URL.
 
-13. **All product backlog items are expressed as excellent user stories** 
+13. **All product backlog items are expressed as excellent user stories:** 
 Please, see #11 above for URL.
 
 14. **Backlog ordering:**
@@ -72,17 +72,18 @@ Our product backlog is ordered; and it's based primarily on "Depedency", and the
     * Infrastructure and dev tools are ready
     * Meets the INVEST (Independent, Negotiable, Valuable, Estimable, Small & Testable) criteria
 	
-16. **Estimates**
-We have stored estimates on our PBIs in our online tool Trello. The estimate is marked in brackets after the title:** 
+16. **Estimates:**
+We have stored estimates on our PBIs in our online tool Trello. The estimate is marked in brackets after the title: 
 https://trello.com/b/RdosOtmY/a-team-kanban-board
 
-17. **Estimation Unit**
+17. **Estimation Unit:**
 Our estimatation of PBIs is done in story points.
 
-18. **We did a whole team relative size estimating activity** 
+18. **We did a whole team relative size estimating activity:** 
 We used the estimation activity Planning Poker to estimate as a team.
 
-18. **Only our Development Team members participated in creating the estimates** 
+19. **Only our Development Team members participated in creating the estimates:** 
+
 20. **Definition of Done:**
     * Meets all acceptance criteria
     * Design reviewed
